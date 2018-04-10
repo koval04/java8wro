@@ -5,4 +5,5 @@ package com.github.xenteros.game2048.controller;
  * Może się okazać, że przyda jej się również zdolność do wyświetlania planszy.
  */
 public class GameController {
+
 }
